@@ -1,2 +1,4 @@
 # hello-word
-联系
+练习
+
+hello  my name is yang ，very glad to be github
